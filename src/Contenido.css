@@ -5,12 +5,12 @@
 
 .contenedor-1 {
   display: flex;
+  flex-wrap: wrap;
   padding: 0px;
 }
 
 .cartas-superiores {
   /* background-color: #ff4945; */
-  background-image: url("");
   border: 3px solid black;
   font-size: 30px;
   text-align: center;
