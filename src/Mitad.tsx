@@ -6,10 +6,10 @@ function Mitad() {
       </div>
       <div className="doble-lateral">
         <div className="cartas-laterales-pequeñas">
-          <img src="130.jpg" alt="" className="imagenPequeñaUno"/>
+          <img src="130.jpg" alt="" className="imagenPequeñaUno" />
         </div>
         <div className="cartas-laterales-pequeñas">
-          <img src="/131.jpeg" alt="" className="imagenPequeñaDos"/>
+          <img src="/131.jpeg" alt="" className="imagenPequeñaDos" />
         </div>
       </div>
     </div>
