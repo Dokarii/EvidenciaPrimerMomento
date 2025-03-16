@@ -5,7 +5,9 @@
 
 .contenedor-1 {
   display: flex;
-  flex-wrap: wrap;
+  flex-wrap: nowrap;
+  justify-content: center;
+  width: 100%;
 }
 
 .cartas-superiores {
@@ -13,13 +15,14 @@
   font-size: 30px;
   text-align: center;
   margin: 5px;
-  width: 49%;
+  width: 50%;
   height: 130px;
 }
 
 .contenedor-mitad {
   display: flex;
   width: 100%;
+  flex-wrap: nowrap;
 }
 
 .carta-lateral-grande {
