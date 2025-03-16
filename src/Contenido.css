@@ -5,16 +5,15 @@
 
 .contenedor-1 {
   display: flex;
-  padding: 0px;
+  flex-wrap: wrap;
 }
 
 .cartas-superiores {
-  /* background-color: #ff4945; */
   border: 3px solid black;
   font-size: 30px;
   text-align: center;
   margin: 5px;
-  width: 50%;
+  width: 49%;
   height: 130px;
 }
 
@@ -57,7 +56,6 @@ img {
 }
 
 .cartas-laterales-pequeñas {
-  /* background-color: #4f0931; */
   border: 3px solid black;
   margin: 5px;
   width: 100%;
