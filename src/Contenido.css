@@ -16,8 +16,8 @@
 
 .contenedor-mitad {
   display: flex;
-  width: 100%;
   flex-wrap: nowrap;
+  width: 100%;
 }
 
 .carta-lateral-grande {
@@ -48,6 +48,7 @@ img {
 
 .doble-lateral {
   display: flex;
+  flex-wrap: nowrap;
   flex-direction: column;
   justify-content: space-between;
   width: 40.5%;

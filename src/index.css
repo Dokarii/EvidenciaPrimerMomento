@@ -5,5 +5,7 @@
 }
 
 body {
-  background-color: #FEFEFE;
+  background-image: url(/112.jpg);
+  background-size: cover;
+  backdrop-filter: blur(20px);
 }
